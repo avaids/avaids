@@ -84,8 +84,8 @@
 
 ## 📬 Contact Me
 
-- 🌐 [My Website](https://niggas.rip)  
-- 📧 support@niggas.rip
+- 🌐 [My Website](https://mysterium.dev)  
+- 📧 support@mysterium.dev
 
 ---
 
