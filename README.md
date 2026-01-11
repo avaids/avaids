@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 - 📍 I'm based in **Boston, Massachusetts**
-- 💻 I mainly work on **front-end** stuff, but I also do **back-end** and app development.
+- 💻 I mainly work on **front-end** stuff, but I also do **back-end** and app development
 - 🧪 Currently learning more about **C#**, **C++**, and **IMGUI**
 - 🎨 I use **Photoshop** and **Blender** for 3D design like weapons for FiveM
 - 🧠 **Hobbies**: Studying, going to the gym, programming, and watching TV
@@ -19,36 +19,36 @@
 
 ## 💻 My Skills
 
-### 💻 Front-End
+### Front-End
 <p align="left">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-CSS-663399?style=flat&logo=css&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=gray" height="30" />
-  <img src="https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat&logo=typescript&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-REACT-61DAFB?style=flat&logo=react&logoColor=gray" height="30" />
-  <img src="https://img.shields.io/badge/-NEXT.JS-000000?style=flat&logo=nextdotjs&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 </p>
 
-### 🧰 Back-End & General
+### Back-End & General
 <p align="left">
-  <img src="https://img.shields.io/badge/-NODE.JS-5FA04E?style=flat&logo=nodedotjs&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-PYTHON-3776AB?style=flat&logo=python&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-Lua-000080?style=flat&logo=lua&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-AHK-334455?style=flat&logo=autohotkey&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white" alt="AutoHotkey" />
 </p>
 
-### 🎛 GUI
+### GUI
 <p align="left">
-  <img src="https://img.shields.io/badge/-Guna2_UI-informational?style=flat&logo=windows&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-Siticone-informational?style=flat&logo=windows&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-IMGUI-informational?style=flat&logo=directx&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Guna2_UI-informational?style=for-the-badge&logo=windows&logoColor=white" alt="Guna2 UI" />
+  <img src="https://img.shields.io/badge/Siticone-informational?style=for-the-badge&logo=windows&logoColor=white" alt="Siticone" />
+  <img src="https://img.shields.io/badge/IMGUI-informational?style=for-the-badge&logo=directx&logoColor=white" alt="IMGUI" />
 </p>
 
-### 🎨 Design & 3D
+### Design & 3D
 <p align="left">
-  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=Adobe-Photoshop&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=Blender&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 </p>
 
 ---
@@ -69,24 +69,30 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avaids&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avaids&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=avaids&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=FFFFFF&border_radius=10" width="49%"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=avaids&theme=tokyonight&hide_border=true&background=0D1117&border=0D1117&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avaids&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=FFFFFF&border_radius=10" width="49%"/>
 </p>
 
 ---
 
 ## 📚 Learning Now
 
-- C# and C++ to continue to expand my app development skills  
-- imGUI to further grow my GUI skills
+- **C#** and **C++** to continue to expand my app development skills  
+- **IMGUI** to further grow my GUI skills
 
 ---
 
 ## 📬 Contact Me
 
-- 🌐 [My Website](https://mysterium.dev)  
-- 📧 support@mysterium.dev
+- 🌐 [My Website](https://fovscripts.xyz)  
+- 📧 support@fovscripts.xyz
 
 ---
 
-_Thanks for checking out my profile!_
+<p align="center">
+  <i>Thanks for checking out my profile!</i>
+</p>
