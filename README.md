@@ -11,7 +11,7 @@
 
 To reach out to me, you have two options: either through the issues section of the selected repository or via [discord ticket](https://discord.gg/fov).
 
-Or feel free to reach out by email via support@fovscript.xyz [ Responses may take longer than discord ]
+Or feel free to reach out by email via support@fovscript.xyz, wWARNING Responses may take longer than discord responses would.
 
 ---
 
