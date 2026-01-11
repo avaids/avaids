@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>19 • Fullstack Dev • Eastern Standard Timezone</strong><br>
-  Fullstack developer with 2.5 years of experience, Honestly i just build / create whatever comes to my mind and hope you guys enjoy it 😆.
+  Fullstack developer with 2.5 years of experience.
 </p>
 
 ---
