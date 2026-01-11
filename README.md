@@ -1,16 +1,17 @@
-<h1 align="center">hello, i'm connector</h1>
+<h1 align="center">Hello</h1>
 
 <p align="center">
-  <strong>19 • Fullstack Dev • Eastern Standard Timezone</strong><br>
-  Fullstack developer with 2.5 years of experience.
+  <strong>19 • Fullstack Dev • Based in Boston, MA</strong><br>
+  Fullstack developer with 2.5 years of experience, Honestly i just build / create whatever comes to my mind. I Specialize in FiveM Development/Optimization.
 </p>
 
 ---
 
-## 📬 Contact Me
+## Contact
 
-- 🌐 [My Website](https://fovscripts.xyz)  
-- 📧 support@fovscripts.xyz
+To reach out to me, you have two options: either through the issues section of the selected repository or via Discord. My Discord username is `connector`, or you can join the support server by clicking [here](https://discord.gg/fov).
+
+Keep in mind that the username is below the display name in discord, please do not confuse them.
 
 ---
 
