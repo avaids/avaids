@@ -11,7 +11,7 @@
 
 To reach out to me, you have two options: either through the issues section of the selected repository or via Discord. My Discord username is `connector`, or you can join the support server by clicking [here](https://discord.gg/fov).
 
-Keep in mind that the username is below the display name in discord, please do not confuse them.
+Or feel free to reach out by email via support@fovscript.xyz [respones may take longer, as we check emails at the end of every business day].
 
 ---
 
