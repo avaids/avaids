@@ -88,8 +88,8 @@
 
 ## 📬 Contact Me
 
-- 🌐 [My Website](https://fovscripts.xyz)  
-- 📧 support@fovscripts.xyz
+- 🌐 [My Website](https://mysterium.dev)  
+- 📧 support@mysterium.dev
 
 ---
 
