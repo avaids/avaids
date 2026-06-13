@@ -9,7 +9,7 @@
 
 ## Contact
 
-To reach out to me, you have two options: either through the issues section of the selected repository or via [discord](discord://-/users/1098284697454395492).
+To reach out to me, you have two options: either through the issues section of the selected repository or via discord @ot6.
 
 Or feel free to reach out by email via support@flyhook.cc, **WARNING** Responses may take longer than discord responses would.
 
