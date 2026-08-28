@@ -3,13 +3,8 @@
 <p align="center">
   <strong>20 • Fullstack • Massachusetts</strong><br>
   3 Years Of Experience.
+  Discord: (@ot6)[<https://discord.com/users/1098284697454395492>]
 </p>
-
----
-
-## Contact
-
-Feel free to reach out via discord @ot6.
 
 ---
 
