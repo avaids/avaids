@@ -1,9 +1,9 @@
-<h1 align="center">About Me</h1>
+<h1 align="center">Hello</h1>
 
 <p align="center">
   <strong>20 • Fullstack • Massachusetts</strong><br>
-  3 Years Of Experience.
-  Discord: [@ot6](<https://discord.com/users/1098284697454395492>)
+  3 Years Of Experience.<br>
+  Discord: <a href="https://discord.com/users/1098284697454395492">@ot6</a>
 </p>
 
 ---
