@@ -1,17 +1,15 @@
 <h1 align="center">About Me</h1>
 
 <p align="center">
-  <strong>20 • Fullstack Dev • Based in Boston, MA</strong><br>
-  Fullstack developer with 3 years of experience.
+  <strong>20 • Fullstack • Massachusetts</strong><br>
+  3 Years Of Experience.
 </p>
 
 ---
 
 ## Contact
 
-To reach out to me, you have two options: either through the issues section of the selected repository or via discord @ot6.
-
-Or feel free to reach out by email via support@flyhook.cc, **WARNING** Responses may take longer than discord responses would.
+Feel free to reach out via discord @ot6.
 
 ---
 
